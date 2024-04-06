@@ -1,0 +1,4 @@
+microservice:
+  properties:
+    appname: "order"
+    port: "8081"

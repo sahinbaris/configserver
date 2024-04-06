@@ -1,0 +1,4 @@
+microservice:
+  properties:
+    appname: "product"
+    port: "8080"
